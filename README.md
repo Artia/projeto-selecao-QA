@@ -12,7 +12,7 @@ Você irá realizar testes automatizados na tela de **criação de contas** da a
 ## O que esperamos de você
 
 - Automatize os testes que considerar mais relevantes para a tela de **criação de contas**.
-- Forneça os cenário de testes utilizados para automação em linguagem Gherkin.
+- Forneça os cenários de testes utilizados para automação em linguagem Gherkin.
 - Justifique **quais testes foram escolhidos** e **por que são importantes**.
 - Descreva quais **benefícios** esses testes trazem para a aplicação.
 - Utilize **Playwright** ou **Cucumber** como ferramenta de automação.
