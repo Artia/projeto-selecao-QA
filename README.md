@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este desafio tem como objetivo avaliar seus conhecimentos e práticas em automação de testes, capacidade analítica e organização de código.
+Este desafio tem como objetivo avaliar seus conhecimentos e práticas em automação de testes e testes manuais, capacidade analítica e organização de código.
 
 Você irá realizar testes automatizados na tela de **criação de contas** da aplicação disponível em:  
 👉 [https://app2.artia.com/users/registration](https://app2.artia.com/users/registration)
